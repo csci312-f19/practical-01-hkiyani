@@ -1,0 +1,25 @@
+{
+  "name": "birthday-practical",
+  "private": true,
+  "version": "1.0.0",
+  "description": "CS312 birthday practical exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Hamza Kiyani <mkiyani@middlebury.edu>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+  "test": "jest",
+  "lint": "eslint ."
+  },
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
